@@ -6,3 +6,4 @@ This is simply put just a remake of the Grids by Mutable Instruments but with th
 There is a video about the creation of this kit here:
 
 And you can buy a kit or only the PCBs at a reasonable price in my Tindieshop here:
+https://www.tindie.com/products/Sourcery/gris-a-throughhole-version-of-the-mi-grids/
