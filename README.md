@@ -13,4 +13,4 @@ And you can buy a kit or only the PCBs at a reasonable price in my Tindieshop he
 https://www.tindie.com/products/Sourcery/gris-a-throughhole-version-of-the-mi-grids/
 
 Here is a link to the iBOM so you can use it online instead of having to download it:
-[https://htmlpreview.github.io/?https://github.com/SourceryOne/Gris/blob/main/GRIS_iBOM.html](https://htmlpreview.github.io/?https://github.com/SourceryOne/Gris/blob/main/GRIS_iBOM.html)
+[https://htmlpreview.github.io/?https://github.com/SourceryOne/Gris/blob/main/GRIS_iBOM.html](https://htmlpreview.github.io/?https://github.com/SourceryOne/Gris/blob/main/iBOM_Gris.html)
