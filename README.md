@@ -14,3 +14,5 @@ https://www.tindie.com/products/Sourcery/gris-a-throughhole-version-of-the-mi-gr
 
 Here is a link to the iBOM so you can use it online instead of having to download it:
 [https://htmlpreview.github.io/?https://github.com/SourceryOne/Gris/blob/main/GRIS_iBOM.html](https://htmlpreview.github.io/?https://github.com/SourceryOne/Gris/blob/main/iBOM_Gris.html)
+
+Here is a link to Gris on ModularGrid: [https://modulargrid.com/e/miaw-gris](https://modulargrid.com/e/miaw-gris)
